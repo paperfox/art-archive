@@ -421,7 +421,11 @@
     "content": ["jellyfish", "bird", "animal", "fantasy"],
     "forSale": false,
     "link": "bitter_dreams.webp",
-    "additionalImages": ["bitter_dreams_addl1.webp", "bitter_dreams_addl2.webp", "bitter_dreams_addl3.webp"],
+    "additionalImages": [
+      "bitter_dreams_addl1.webp",
+      "bitter_dreams_addl2.webp",
+      "bitter_dreams_addl3.webp"
+    ],
     "featured": ["false"]
   },
   {
@@ -1065,7 +1069,7 @@
   {
     "title": "Virginia Big-eared Bat",
     "date": "Oct 9, 2022",
-    "desc": "A bat flying into the foreground with a cafe opening in the background with additional bats handing from the ceiling.",
+    "desc": "A bat flying into the foreground with a cave opening in the background with additional bats handing from the ceiling.",
     "dimensions": "6x6 inches",
     "media": ["watercolor"],
     "content": ["animal"],
@@ -1211,7 +1215,15 @@
     "desc": "A sad mushroom with a red cap sits with their legs kicked up and shining eyes as though they're about to cry. Inspired by the baby bun mini from Final Fantasy 14.",
     "dimensions": "8x8 inches",
     "media": ["watercolor", "micron pen"],
-    "content": ["landscape", "plant", "fantasy", "fanart", "print", "cards", "stickers"],
+    "content": [
+      "landscape",
+      "plant",
+      "fantasy",
+      "fanart",
+      "print",
+      "cards",
+      "stickers"
+    ],
     "forSale": false,
     "link": "sad-mushroom.webp",
     "featured": ["true"]
@@ -2676,7 +2688,14 @@
     "date": "Mar 18, 2009",
     "desc": "Leather necklace with 2 cats playing",
     "dimensions": "3 inches",
-    "media": ["sculpture", "sculpey", "acrylic", "mixed media", "jewelry", "painting"],
+    "media": [
+      "sculpture",
+      "sculpey",
+      "acrylic",
+      "mixed media",
+      "jewelry",
+      "painting"
+    ],
     "content": ["cat", "animal"],
     "forSale": false,
     "link": "jester_and_the_ninja.webp",
