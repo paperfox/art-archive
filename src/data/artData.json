@@ -451,6 +451,17 @@
     "featured": ["true"]
   },
   {
+    "title": "Queen of Wands",
+    "date": "May 18, 2024",
+    "desc": "A blond woman in a white dress steps over the root of a large tree with red shelf mushrooms growing on it deep in the forest as light filters through the leaves. In one hand is a shepherds crook, the other arm is lifted and an owlet is perched on it looking at her. Done in micron pen and watercolor.",
+    "dimensions": "9x12 inches",
+    "media": ["micron pen", "watercolor"],
+    "content": ["owl", "animal", "people", "print"],
+    "forSale": false,
+    "link": "queenoftheforest.webp",
+    "featured": ["false"]
+  },
+  {
     "title": "Kingfisher",
     "date": "Apr 12, 2024",
     "desc": "Watercolor painting of a kingfisher sitting on a branch over with a bird in its beak with a blue sky behind it.",
