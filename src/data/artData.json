@@ -1,5 +1,93 @@
 [
   {
+    "title": "MASS PRIDE",
+    "date": "May 29, 2025",
+    "desc": "Watercolor painting 6 birds perched on branches creating the colors of the stripes progress pride flag. The background is blue box with a yellow and white glow at the top and a pink square around it. A small purple circle intercepting it at the top. The birds are, from left to write: a purple martin, a blue jay, a mourning warbler, an american goldfinch, an oriole, and a cardinal.",
+    "dimensions": "9x12 inches",
+    "media": ["watercolor", "micron pen"],
+    "content": ["animal", "mushroom", "bird"],
+    "forSale": false,
+    "link": "massPride.webp",
+    "featured": ["false"]
+  },
+  {
+    "title": "Crocus",
+    "date": "May 12, 2025",
+    "desc": "Watercolor painting of 3 crocus blooming.",
+    "dimensions": "5x7 inches",
+    "media": ["watercolor", "micron pen"],
+    "content": ["plant", "flower", "fantasy", "print"],
+    "forSale": false,
+    "link": "crocus.webp",
+    "featured": ["false"]
+  },
+  {
+    "title": "Sus",
+    "date": "May 7, 2025",
+    "desc": "Watercolor painting of an white, black, and purple ink cap mushroom giving the side eye suspiciously with their arms crossed.",
+    "dimensions": "5x9 inches",
+    "media": ["watercolor", "micron pen"],
+    "content": ["plant", "mushroom", "fantasy", "print"],
+    "forSale": false,
+    "link": "mushroom_sus.webp",
+    "featured": ["false"]
+  },
+  {
+    "title": "Shelter to Wonder",
+    "date": "May 3, 2025",
+    "desc": "Watercolor painting of a blue green and white spotted verdigris agaric mushroom protecting it's little mushroom offspring from the rain as it watches the weather in wonder.",
+    "dimensions": "5x9 inches",
+    "media": ["watercolor", "micron pen"],
+    "content": ["plant", "mushroom", "fantasy", "print"],
+    "forSale": false,
+    "link": "mushroom_parent.webp",
+    "featured": ["false"]
+  },
+  {
+    "title": "Relaxing",
+    "date": "May 1, 2025",
+    "desc": "Watercolor painting of a red hot milk cap mushroom reclining and just relaxing.",
+    "dimensions": "5x9 inches",
+    "media": ["watercolor", "micron pen"],
+    "content": ["plant", "mushroom", "fantasy", "print"],
+    "forSale": false,
+    "link": "mushroom_relaxed.webp",
+    "featured": ["false"]
+  },
+  {
+    "title": "Joy",
+    "date": "Apr 29, 2025",
+    "desc": "Watercolor painting of a pale brown king oyster mushroom jumping for joy.",
+    "dimensions": "5x9 inches",
+    "media": ["watercolor", "micron pen"],
+    "content": ["plant", "mushroom", "fantasy", "print"],
+    "forSale": false,
+    "link": "mushroom_joy.webp",
+    "featured": ["false"]
+  },
+  {
+    "title": "In a Huff",
+    "date": "Apr 23, 2025",
+    "desc": "Watercolor painting of a sharp scaly pholiota mushroom with their arms crossed looking angry or pouting.",
+    "dimensions": "5x9 inches",
+    "media": ["watercolor", "micron pen"],
+    "content": ["plant", "mushroom", "fantasy", "print"],
+    "forSale": false,
+    "link": "mushroom_pout.webp",
+    "featured": ["false"]
+  },
+  {
+    "title": "Spring Cardinal",
+    "date": "Apr 22, 2025",
+    "desc": "Watercolor painting of an cardinal sitting in gray tree banches with budding red leaves.",
+    "dimensions": "5x7 inches",
+    "media": ["watercolor", "micron pen"],
+    "content": ["animal", "bird", "print"],
+    "forSale": false,
+    "link": "cardinal.webp",
+    "featured": ["false"]
+  },
+  {
     "title": "Sunset Wyvern",
     "date": "Mar 29, 2025",
     "desc": "Watercolor painting of a peacock bass with a fly-fishing fly in it's mouth on a taught flyline half submerged swimming in the water.",
