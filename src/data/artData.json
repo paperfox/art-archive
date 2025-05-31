@@ -8,7 +8,7 @@
     "content": ["animal", "mushroom", "bird"],
     "forSale": false,
     "link": "massPride.webp",
-    "featured": ["false"]
+    "featured": ["true"]
   },
   {
     "title": "Crocus",
@@ -19,7 +19,7 @@
     "content": ["plant", "flower", "fantasy", "print"],
     "forSale": false,
     "link": "crocus.webp",
-    "featured": ["false"]
+    "featured": ["true"]
   },
   {
     "title": "Sus",
@@ -30,7 +30,7 @@
     "content": ["plant", "mushroom", "fantasy", "print"],
     "forSale": false,
     "link": "mushroom_sus.webp",
-    "featured": ["false"]
+    "featured": ["true"]
   },
   {
     "title": "Shelter to Wonder",
@@ -41,7 +41,7 @@
     "content": ["plant", "mushroom", "fantasy", "print"],
     "forSale": false,
     "link": "mushroom_parent.webp",
-    "featured": ["false"]
+    "featured": ["true"]
   },
   {
     "title": "Relaxing",
@@ -63,7 +63,7 @@
     "content": ["plant", "mushroom", "fantasy", "print"],
     "forSale": false,
     "link": "mushroom_joy.webp",
-    "featured": ["false"]
+    "featured": ["true"]
   },
   {
     "title": "In a Huff",
@@ -899,7 +899,7 @@
     "content": ["bird", "animal", "fantasy"],
     "forSale": false,
     "link": "queen-of-cups.webp",
-    "featured": ["true"]
+    "featured": ["false"]
   },
   {
     "title": "Amelia",
@@ -1490,7 +1490,7 @@
     "content": ["butterfly", "people", "animal", "insect", "fantasy"],
     "forSale": false,
     "link": "finnish_forest_reindeer.webp",
-    "featured": ["true"]
+    "featured": ["false"]
   },
   {
     "title": "Jaguar",
@@ -2315,7 +2315,7 @@
     "content": ["cat", "animal", "fantasy"],
     "forSale": false,
     "link": "adding_wings_to_a_tiger.webp",
-    "featured": ["true"]
+    "featured": ["false"]
   },
   {
     "title": "Shepherds",
@@ -2414,7 +2414,7 @@
     "content": ["jellyfish", "animal", "print"],
     "forSale": false,
     "link": "ghost.webp",
-    "featured": ["true"]
+    "featured": ["false"]
   },
   {
     "title": "Enchanted",
