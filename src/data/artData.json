@@ -88,6 +88,17 @@
     "featured": ["false"]
   },
   {
+    "title": "Daffodils, PleinAirpril 2025",
+    "date": "Apr 22, 2025",
+    "desc": "Watercolor painting of three daffodils. One is barely open.",
+    "dimensions": "4x6 inches",
+    "media": ["watercolor", "micron pen"],
+    "content": ["plant", "flower", "print"],
+    "forSale": false,
+    "link": "pleinairpril-apr5.webp",
+    "featured": ["false"]
+  },
+  {
     "title": "Sunset Wyvern",
     "date": "Mar 29, 2025",
     "desc": "Watercolor painting of a peacock bass with a fly-fishing fly in it's mouth on a taught flyline half submerged swimming in the water.",
