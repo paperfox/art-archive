@@ -6,7 +6,7 @@
     "dimensions": "9x12 inches",
     "media": ["watercolor", "micron pen"],
     "content": ["animal", "mushroom", "bird"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "massPride.webp",
     "featured": ["true"]
   },
@@ -17,7 +17,7 @@
     "dimensions": "5x7 inches",
     "media": ["watercolor", "micron pen"],
     "content": ["plant", "flower", "fantasy", "print"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "crocus.webp",
     "featured": ["true"]
   },
@@ -28,7 +28,7 @@
     "dimensions": "5x9 inches",
     "media": ["watercolor", "micron pen"],
     "content": ["plant", "mushroom", "fantasy", "print"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "mushroom_sus.webp",
     "featured": ["true"]
   },
@@ -39,7 +39,7 @@
     "dimensions": "5x9 inches",
     "media": ["watercolor", "micron pen"],
     "content": ["plant", "mushroom", "fantasy", "print"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "mushroom_parent.webp",
     "featured": ["true"]
   },
@@ -50,7 +50,7 @@
     "dimensions": "5x9 inches",
     "media": ["watercolor", "micron pen"],
     "content": ["plant", "mushroom", "fantasy", "print"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "mushroom_relaxed.webp",
     "featured": ["false"]
   },
@@ -61,7 +61,7 @@
     "dimensions": "5x9 inches",
     "media": ["watercolor", "micron pen"],
     "content": ["plant", "mushroom", "fantasy", "print"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "mushroom_joy.webp",
     "featured": ["true"]
   },
@@ -72,7 +72,7 @@
     "dimensions": "5x9 inches",
     "media": ["watercolor", "micron pen"],
     "content": ["plant", "mushroom", "fantasy", "print"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "mushroom_pout.webp",
     "featured": ["false"]
   },
@@ -83,7 +83,7 @@
     "dimensions": "5x7 inches",
     "media": ["watercolor", "micron pen"],
     "content": ["animal", "bird", "print"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "cardinal.webp",
     "featured": ["false"]
   },
@@ -94,7 +94,7 @@
     "dimensions": "4x6 inches",
     "media": ["watercolor", "micron pen"],
     "content": ["plant", "flower", "print"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "pleinairpril-apr5.webp",
     "featured": ["false"]
   },
@@ -102,10 +102,10 @@
     "title": "Sunset Wyvern",
     "date": "Mar 29, 2025",
     "desc": "Watercolor painting of a peacock bass with a fly-fishing fly in it's mouth on a taught flyline half submerged swimming in the water.",
-    "dimensions": "7x10 inches",
+    "dimensions": "10x13 inches",
     "media": ["watercolor", "micron pen"],
     "content": ["dragon", "wyvern", "animal", "fantasy", "print"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "sunset-wyvern.webp",
     "featured": ["true"]
   },
@@ -116,7 +116,7 @@
     "dimensions": "7x10 inches",
     "media": ["watercolor", "micron pen"],
     "content": ["fish", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "peacock-bass.webp",
     "featured": ["false"]
   },
@@ -127,7 +127,7 @@
     "dimensions": "7x10 inches",
     "media": ["digital"],
     "content": ["snake", "animal", "print"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "yearofthesnake.webp",
     "featured": ["true"]
   },
@@ -138,7 +138,7 @@
     "dimensions": "6x9 inches",
     "media": ["watercolor"],
     "content": ["zebra", "animal"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "mountain_zebra.webp",
     "featured": ["false"]
   },
@@ -149,7 +149,7 @@
     "dimensions": "5x5 inches",
     "media": ["digital"],
     "content": ["zebra", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "mountain_zebra_lines.webp",
     "featured": ["false"]
   },
@@ -160,7 +160,7 @@
     "dimensions": "3x4 inches",
     "media": ["watercolor", "micron pen"],
     "content": ["bird", "animal"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "takahe.webp",
     "featured": ["false"]
   },
@@ -171,7 +171,7 @@
     "dimensions": "6x9 inches",
     "media": ["watercolor", "micron pen"],
     "content": ["panda", "animal", "stickers"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "giant_panda.webp",
     "featured": ["true"]
   },
@@ -182,7 +182,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen"],
     "content": ["panda", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "giant_panda_lines.webp",
     "featured": ["false"]
   },
@@ -193,7 +193,7 @@
     "dimensions": "7x10 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["cheetah", "animal", "stickers"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "oof.webp",
     "featured": ["true"]
   },
@@ -204,7 +204,7 @@
     "dimensions": "7x10 inches",
     "media": ["micron pen"],
     "content": ["cheetah", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "oof_lines.webp",
     "featured": ["false"]
   },
@@ -215,7 +215,7 @@
     "dimensions": "7x10 inches",
     "media": ["watercolor"],
     "content": ["eagle", "animal"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "philippine_eagle.webp",
     "featured": ["false"]
   },
@@ -226,7 +226,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["bear", "animal"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "marsican_brown_bear.webp",
     "featured": ["false"]
   },
@@ -237,7 +237,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen"],
     "content": ["bear", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "marsican_brown_bear_lines.webp",
     "featured": ["false"]
   },
@@ -248,7 +248,7 @@
     "dimensions": "2.5x3.5 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["dog", "animal"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "bush_dog.webp",
     "featured": ["false"]
   },
@@ -259,7 +259,7 @@
     "dimensions": "2.5x3.5 inches",
     "media": ["micron pen"],
     "content": ["dog", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "bush_dog_lines.webp",
     "featured": ["false"]
   },
@@ -270,7 +270,7 @@
     "dimensions": "6x9 inches",
     "media": ["ink", "watercolor"],
     "content": ["bird", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "macqueen_s_bustard.webp",
     "featured": ["false"]
   },
@@ -281,7 +281,7 @@
     "dimensions": "6x9 inches",
     "media": ["digital"],
     "content": ["bird", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "macqueen_s_bustard_lines.webp",
     "featured": ["false"]
   },
@@ -292,7 +292,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["gazelle", "animal"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "mountain_gazelle.webp",
     "featured": ["false"]
   },
@@ -303,7 +303,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen"],
     "content": ["gazelle", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "mountain_gazelle_lines.webp",
     "featured": ["false"]
   },
@@ -314,7 +314,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["dragon", "iguana", "animal", "fantasy", "print"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "sea_serpent_dreams_of_flying.webp",
     "featured": ["true"]
   },
@@ -325,7 +325,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen"],
     "content": ["dragon", "iguana", "animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "sea_serpent_dreams_of_flying_lines.webp",
     "featured": ["false"]
   },
@@ -336,7 +336,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["bird", "animal", "cards", "print"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "pernambuco_pygmy_owl.webp",
     "featured": ["true"]
   },
@@ -347,7 +347,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen"],
     "content": ["bird", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "pernambuco_pygmy_owl_lines.webp",
     "featured": ["false"]
   },
@@ -358,7 +358,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["bird", "animal", "print"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "conflict.webp",
     "featured": ["true"]
   },
@@ -369,7 +369,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen"],
     "content": ["bird", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "conflict_lines.webp",
     "featured": ["false"]
   },
@@ -380,7 +380,7 @@
     "dimensions": "2.5x3.5 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["squirrel", "animal"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "namdapha_flying_squirrel.webp",
     "featured": ["true"]
   },
@@ -391,7 +391,7 @@
     "dimensions": "2.5x3.5 inches",
     "media": ["micron pen"],
     "content": ["squirrel", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "namdapha_flying_squirrel_lines.webp",
     "featured": ["false"]
   },
@@ -402,7 +402,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen", "ink", "watercolor"],
     "content": ["wolf", "animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "mexican_wolf.webp",
     "featured": ["false"]
   },
@@ -413,7 +413,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen"],
     "content": ["wolf", "animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "mexican_wolf_lines.webp",
     "featured": ["false"]
   },
@@ -424,7 +424,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen", "ink", "watercolor"],
     "content": ["animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "red_panda.webp",
     "featured": ["false"]
   },
@@ -435,7 +435,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen"],
     "content": ["animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "red_panda_lines.webp",
     "featured": ["false"]
   },
@@ -446,7 +446,7 @@
     "dimensions": "8x10 inches",
     "media": ["micron pen"],
     "content": ["animal", "people", "fantasy", "fanart"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "jason_and_colin_lines.webp",
     "featured": ["false"]
   },
@@ -457,7 +457,7 @@
     "dimensions": "8x11 inches",
     "media": ["digital"],
     "content": ["people", "fantasy", "fanart"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "raven_queen.webp",
     "featured": ["true"]
   },
@@ -468,7 +468,7 @@
     "dimensions": "9x12 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["bird", "animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "page_of_pentacles.webp",
     "featured": ["false"]
   },
@@ -479,7 +479,7 @@
     "dimensions": "8x10 inches",
     "media": ["linocut", "printmaking"],
     "content": ["bird", "flower", "plant", "animal"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "sunshine.webp",
     "featured": ["true"]
   },
@@ -490,7 +490,7 @@
     "dimensions": "10x14 inches",
     "media": ["linocut", "printmaking"],
     "content": ["bird", "animal"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "seabirds.webp",
     "featured": ["false"]
   },
@@ -501,7 +501,7 @@
     "dimensions": "10x14 inches",
     "media": ["linocut", "printmaking"],
     "content": ["jellyfish", "animal"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "jellyfish_print.webp",
     "additionalImages": [
       "jellyfish_print_addl1.webp",
@@ -518,7 +518,7 @@
     "dimensions": "10x14 inches",
     "media": ["linocut", "printmaking"],
     "content": ["jellyfish", "bird", "animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "bitter_dreams.webp",
     "additionalImages": [
       "bitter_dreams_addl1.webp",
@@ -534,7 +534,7 @@
     "dimensions": "9x12 inches",
     "media": ["watercolor", "ink"],
     "content": ["bird", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "twoOfPentacles.webp",
     "featured": ["false"]
   },
@@ -545,7 +545,7 @@
     "dimensions": "3x2.5 inches",
     "media": ["digital"],
     "content": ["dog", "pride", "animal", "fantasy", "stickers"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "miko_pride.webp",
     "featured": ["true"]
   },
@@ -556,7 +556,7 @@
     "dimensions": "9x12 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["owl", "animal", "people", "print"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "queenoftheforest.webp",
     "featured": ["false"]
   },
@@ -567,7 +567,7 @@
     "dimensions": "6x9 inches",
     "media": ["watercolor"],
     "content": ["bird", "animal"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "kingfisher.webp",
     "featured": ["false"]
   },
@@ -578,7 +578,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen", "ink", "watercolor"],
     "content": ["rabbit", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "clark.webp",
     "featured": ["false"]
   },
@@ -589,7 +589,7 @@
     "dimensions": "7x10 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["fish", "animal", "bear", "landscape", "print"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "salmon_run.webp",
     "featured": ["true"]
   },
@@ -600,7 +600,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["otter", "animal", "plant", "landscape", "print"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "japanese_river_otter.webp",
     "featured": ["false"]
   },
@@ -611,7 +611,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["dog", "animal", "landscape", "print"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "dhole_party.webp",
     "featured": ["true"]
   },
@@ -622,7 +622,7 @@
     "dimensions": "9x12 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["demon", "horror", "fantasy", "people", "fanart"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "pancakes_with_henry.webp",
     "featured": ["true"]
   },
@@ -633,7 +633,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["bear", "animal", "print"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "himalayan_brown_bear.webp",
     "featured": ["false"]
   },
@@ -644,7 +644,7 @@
     "dimensions": "6x9 inches",
     "media": ["watercolor"],
     "content": ["bison", "animal"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "indian_bison.webp",
     "featured": ["false"]
   },
@@ -655,7 +655,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen"],
     "content": ["bison", "animal"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "indian_bison_ink.webp",
     "featured": ["false"]
   },
@@ -666,7 +666,7 @@
     "dimensions": "6x6 inches",
     "media": ["micron pen"],
     "content": ["bat", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "Straw-Colored-Fruit-Bat.webp",
     "featured": ["false"]
   },
@@ -677,7 +677,7 @@
     "dimensions": "9x12 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["owl", "animal", "people", "print"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "forest-owlet.webp",
     "featured": ["false"]
   },
@@ -688,7 +688,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["lion", "animal"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "egyptian-lion.webp",
     "featured": ["false"]
   },
@@ -699,7 +699,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["horse", "animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "mongolian-wild-horse.webp",
     "featured": ["false"]
   },
@@ -710,7 +710,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["duiker", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "zebra-duiker.webp",
     "featured": ["false"]
   },
@@ -721,7 +721,7 @@
     "dimensions": "6x9 inches",
     "media": ["watercolor"],
     "content": ["squirrel", "animal"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "red-squirrel.webp",
     "featured": ["false"]
   },
@@ -732,7 +732,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["bird", "animal", "print"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "pintos-spinetail.webp",
     "featured": ["false"]
   },
@@ -743,7 +743,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen"],
     "content": ["lizard", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "panay-monitor.webp",
     "featured": ["false"]
   },
@@ -754,7 +754,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen", "ink", "watercolor"],
     "content": ["plant", "people"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "mandrake.webp",
     "featured": ["false"]
   },
@@ -765,7 +765,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen", "ink", "watercolor"],
     "content": ["bird", "animal"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "yellow-billed-loon.webp",
     "featured": ["true"]
   },
@@ -776,7 +776,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen", "ink", "watercolor"],
     "content": ["cat", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "tsushima-leopard-cat.webp",
     "featured": ["false"]
   },
@@ -787,7 +787,7 @@
     "dimensions": "6x9 inches",
     "media": ["watercolor"],
     "content": ["jellyfish", "animal", "print"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "lion-jelly.webp",
     "featured": ["true"]
   },
@@ -798,7 +798,7 @@
     "dimensions": "6x9 inches",
     "media": ["watercolor"],
     "content": ["glacier", "landscape"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "lamplugh-glacier.webp",
     "featured": ["false"]
   },
@@ -809,7 +809,7 @@
     "dimensions": "6x9 inches",
     "media": ["watercolor"],
     "content": ["mushroom", "plant"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "amanita-mushroom.webp",
     "featured": ["false"]
   },
@@ -820,7 +820,7 @@
     "dimensions": "6x9 inches",
     "media": ["watercolor"],
     "content": ["bird", "landscape", "animal", "print"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "fog-at-sea.webp",
     "featured": ["true"]
   },
@@ -831,7 +831,7 @@
     "dimensions": "6x9 inches",
     "media": ["watercolor"],
     "content": ["plant", "landscape"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "alaska-sunset.webp",
     "featured": ["false"]
   },
@@ -842,7 +842,7 @@
     "dimensions": "6x9 inches",
     "media": ["watercolor"],
     "content": ["plant", "landscape"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "nighttime-alaskan-sea.webp",
     "featured": ["false"]
   },
@@ -853,7 +853,7 @@
     "dimensions": "9x12 inches",
     "media": ["digital"],
     "content": ["people", "fantasy", "fanart", "plant"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "the-hermit.webp",
     "featured": ["true"]
   },
@@ -864,7 +864,7 @@
     "dimensions": "6x8 inches",
     "media": ["linocut", "printmaking"],
     "content": ["bird", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "white-throated-magpie-jay-linocut.webp",
     "featured": ["false"]
   },
@@ -875,7 +875,7 @@
     "dimensions": "9x12 inches",
     "media": ["linocut", "printmaking"],
     "content": ["bird", "animal", "cards"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "rainbow-shadowcat.webp",
     "featured": ["false"]
   },
@@ -886,7 +886,7 @@
     "dimensions": "4x4 inches",
     "media": ["digital"],
     "content": ["dog", "animal", "stickers"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "finn-pride.webp",
     "featured": ["true"]
   },
@@ -897,7 +897,7 @@
     "dimensions": "4x4 inches",
     "media": ["linocut", "printmaking"],
     "content": ["dragon", "fish", "animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "carp-dragon.webp",
     "featured": ["false"]
   },
@@ -908,7 +908,7 @@
     "dimensions": "9x12 inches",
     "media": ["watercolor", "ink"],
     "content": ["bird", "animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "queen-of-cups.webp",
     "featured": ["false"]
   },
@@ -919,7 +919,7 @@
     "dimensions": "9x12 inches",
     "media": ["watercolor", "micron pen"],
     "content": ["people", "animal", "fantasy", "fanart"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "amelia.webp",
     "featured": ["true"]
   },
@@ -930,7 +930,7 @@
     "dimensions": "9x12 inches",
     "media": ["watercolor", "ink", "micron pen"],
     "content": ["people", "animal", "fantasy", "fanart"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "seven-of-wands.webp",
     "featured": ["true"]
   },
@@ -941,7 +941,7 @@
     "dimensions": "9x12 inches",
     "media": ["watercolor", "micron pen"],
     "content": ["people", "animal", "fantasy", "fanart", "print"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "seven-of-cups.webp",
     "featured": ["true"]
   },
@@ -952,7 +952,7 @@
     "dimensions": "7x7 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["dinosaur", "animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "trexswim.webp",
     "featured": ["false"]
   },
@@ -963,7 +963,7 @@
     "dimensions": "6x8 inches",
     "media": ["watercolor"],
     "content": ["bird", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "quetzal.webp",
     "featured": ["false"]
   },
@@ -974,7 +974,7 @@
     "dimensions": "6x9 inches",
     "media": ["watercolor"],
     "content": ["bat", "animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "giant-golden-crowned-flying-fox.webp",
     "featured": ["false"]
   },
@@ -985,7 +985,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "black-footed-ferret.webp",
     "featured": ["false"]
   },
@@ -996,7 +996,7 @@
     "dimensions": "6x9 inches",
     "media": ["watercolor"],
     "content": ["tree", "plant"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "umbrella-thorn-acacia.webp",
     "featured": ["false"]
   },
@@ -1007,7 +1007,7 @@
     "dimensions": "6x6 inches",
     "media": ["micron pen"],
     "content": ["animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "ornate-eagle-ray.webp",
     "featured": ["false"]
   },
@@ -1018,7 +1018,7 @@
     "dimensions": "5x5 inches",
     "media": ["watercolor"],
     "content": ["tree", "plant"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "amate-tree.webp",
     "featured": ["false"]
   },
@@ -1029,7 +1029,7 @@
     "dimensions": "5x5 inches",
     "media": ["watercolor"],
     "content": ["animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "eastern-spotted-skunk.webp",
     "featured": ["false"]
   },
@@ -1040,7 +1040,7 @@
     "dimensions": "6x6 inches",
     "media": ["digital"],
     "content": ["animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "loggerhead-sea-turtle.webp",
     "featured": ["false"]
   },
@@ -1051,7 +1051,7 @@
     "dimensions": "6x6 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "seychelles-wolf-snake.webp",
     "featured": ["false"]
   },
@@ -1062,7 +1062,7 @@
     "dimensions": "6x6 inches",
     "media": ["watercolor"],
     "content": ["plant"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "hawaiian-hibiscus.webp",
     "featured": ["false"]
   },
@@ -1073,7 +1073,7 @@
     "dimensions": "8x8 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "eastern-cougar.webp",
     "featured": ["false"]
   },
@@ -1084,7 +1084,7 @@
     "dimensions": "6x6 inches",
     "media": ["watercolor"],
     "content": ["animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "white-naped-crane.webp",
     "featured": ["false"]
   },
@@ -1095,7 +1095,7 @@
     "dimensions": "6x6 inches",
     "media": ["watercolor", "micron pen"],
     "content": ["animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "margay-cat.webp",
     "featured": ["false"]
   },
@@ -1106,7 +1106,7 @@
     "dimensions": "6x6 inches",
     "media": ["watercolor", "micron pen"],
     "content": ["animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "sea-otter.webp",
     "featured": ["false"]
   },
@@ -1117,7 +1117,7 @@
     "dimensions": "6x6 inches",
     "media": ["watercolor"],
     "content": ["animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "zebra-shark.webp",
     "featured": ["false"]
   },
@@ -1128,7 +1128,7 @@
     "dimensions": "6x6 inches",
     "media": ["watercolor"],
     "content": ["animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "bengal-tiger.webp",
     "featured": ["false"]
   },
@@ -1139,7 +1139,7 @@
     "dimensions": "6x6 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "hispid-hare.webp",
     "featured": ["false"]
   },
@@ -1150,7 +1150,7 @@
     "dimensions": "6x6 inches",
     "media": ["watercolor"],
     "content": ["animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "spectacled-bear.webp",
     "featured": ["false"]
   },
@@ -1161,7 +1161,7 @@
     "dimensions": "6x8 inches",
     "media": ["watercolor"],
     "content": ["plant"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "ohi-a-tree.webp",
     "featured": ["false"]
   },
@@ -1172,7 +1172,7 @@
     "dimensions": "6x8 inches",
     "media": ["watercolor"],
     "content": ["animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "key-deer.webp",
     "featured": ["false"]
   },
@@ -1183,7 +1183,7 @@
     "dimensions": "6x6 inches",
     "media": ["watercolor"],
     "content": ["animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "virginia-big-eared-bat.webp",
     "featured": ["false"]
   },
@@ -1194,7 +1194,7 @@
     "dimensions": "6x7 inches",
     "media": ["watercolor"],
     "content": ["plant"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "european-oak.webp",
     "featured": ["false"]
   },
@@ -1205,7 +1205,7 @@
     "dimensions": "6x6 inches",
     "media": ["watercolor"],
     "content": ["animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "azero-spider-monkey.webp",
     "featured": ["false"]
   },
@@ -1216,7 +1216,7 @@
     "dimensions": "4x4 inches",
     "media": ["watercolor", "ink"],
     "content": ["animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "chinese-broad-headed-pond-turtle.webp",
     "featured": ["false"]
   },
@@ -1227,7 +1227,7 @@
     "dimensions": "6x9 inches",
     "media": ["watercolor"],
     "content": ["animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "canada-warbler.webp",
     "featured": ["false"]
   },
@@ -1238,7 +1238,7 @@
     "dimensions": "3x7 inches",
     "media": ["watercolor"],
     "content": ["plant"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "rowan-tree.webp",
     "featured": ["false"]
   },
@@ -1249,7 +1249,7 @@
     "dimensions": "5x5 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "sierra-nevada-red-fox.webp",
     "featured": ["false"]
   },
@@ -1260,7 +1260,7 @@
     "dimensions": "2.5x3.5 inches",
     "media": ["watercolor"],
     "content": ["plant", "fantasy", "fanart"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "baby-bun-reaching.webp",
     "featured": ["false"]
   },
@@ -1271,7 +1271,7 @@
     "dimensions": "2.5x3.5 inches",
     "media": ["watercolor"],
     "content": ["plant", "landscape"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "half-moon-night-scene.webp",
     "featured": ["false"]
   },
@@ -1282,7 +1282,7 @@
     "dimensions": "2.5x3.5 inches",
     "media": ["watercolor"],
     "content": ["plant"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "sunflower.webp",
     "featured": ["false"]
   },
@@ -1293,7 +1293,7 @@
     "dimensions": "2.5x3.5 inches",
     "media": ["watercolor"],
     "content": ["landscape"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "daytime-mountainscape.webp",
     "featured": ["false"]
   },
@@ -1304,7 +1304,7 @@
     "dimensions": "2.5x3.5 inches",
     "media": ["watercolor"],
     "content": ["landscape"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "sunset-over-mountains.webp",
     "featured": ["false"]
   },
@@ -1315,7 +1315,7 @@
     "dimensions": "2.5x3.5 inches",
     "media": ["watercolor"],
     "content": ["landscape"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "sunset-over-water.webp",
     "featured": ["false"]
   },
@@ -1334,7 +1334,7 @@
       "cards",
       "stickers"
     ],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "sad-mushroom.webp",
     "featured": ["true"]
   },
@@ -1345,7 +1345,7 @@
     "dimensions": "9x12 inches",
     "media": ["watercolor", "ink"],
     "content": ["bird", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "cosmos.webp",
     "featured": ["true"]
   },
@@ -1356,7 +1356,7 @@
     "dimensions": "5x5 inches",
     "media": ["watercolor", "ink"],
     "content": ["landscape", "plant"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "house-at-moonrise.webp",
     "featured": ["false"]
   },
@@ -1367,7 +1367,7 @@
     "dimensions": "8x12 inches",
     "media": ["watercolor"],
     "content": ["tree", "landscape", "plant"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "leafless-tree-landscape.webp",
     "featured": ["false"]
   },
@@ -1378,7 +1378,7 @@
     "dimensions": "8x12 inches",
     "media": ["digital"],
     "content": ["people", "animal", "fantasy", "fanart"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "sylver-seeker.webp",
     "featured": ["true"]
   },
@@ -1389,7 +1389,7 @@
     "dimensions": "8x12 inches",
     "media": ["watercolor"],
     "content": ["butterfly", "animal", "insect"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "rainbow-butterfly.webp",
     "featured": ["false"]
   },
@@ -1400,7 +1400,7 @@
     "dimensions": "8x8 inches",
     "media": ["watercolor"],
     "content": ["jellyfish", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "cyan-jellie.webp",
     "featured": ["false"]
   },
@@ -1411,7 +1411,7 @@
     "dimensions": "6x6 inches",
     "media": ["digital"],
     "content": ["wolf", "animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "shadow-wolves.webp",
     "featured": ["false"]
   },
@@ -1422,7 +1422,7 @@
     "dimensions": "6x6 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["animal", "fantasy", "people", "fanart"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "fishing.webp",
     "featured": ["false"]
   },
@@ -1433,7 +1433,7 @@
     "dimensions": "6x6 inches",
     "media": ["digital"],
     "content": ["crow", "bird", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "stormy-crow.webp",
     "featured": ["false"]
   },
@@ -1444,7 +1444,7 @@
     "dimensions": "5x5 inches",
     "media": ["digital"],
     "content": ["people"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "portrait-red.webp",
     "featured": ["false"]
   },
@@ -1455,7 +1455,7 @@
     "dimensions": "6x6 inches",
     "media": ["digital"],
     "content": ["dragon", "animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "wyvern.webp",
     "featured": ["false"]
   },
@@ -1466,7 +1466,7 @@
     "dimensions": "8x10 inches",
     "media": ["digital"],
     "content": ["alligator", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "muddy_dragon.webp",
     "featured": ["false"]
   },
@@ -1477,7 +1477,7 @@
     "dimensions": "6x8 inches",
     "media": ["digital"],
     "content": ["rabbit", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "european_rabbit.webp",
     "featured": ["false"]
   },
@@ -1488,7 +1488,7 @@
     "dimensions": "10x10 inches",
     "media": ["digital"],
     "content": ["insect", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "bees.webp",
     "featured": ["false"]
   },
@@ -1499,7 +1499,7 @@
     "dimensions": "9x12 inches",
     "media": ["digital"],
     "content": ["butterfly", "people", "animal", "insect", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "finnish_forest_reindeer.webp",
     "featured": ["false"]
   },
@@ -1510,7 +1510,7 @@
     "dimensions": "6x8 inches",
     "media": ["ink"],
     "content": ["jaguar", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "jaguar.webp",
     "featured": ["false"]
   },
@@ -1521,7 +1521,7 @@
     "dimensions": "4x7 inches",
     "media": ["watercolor"],
     "content": ["bird", "animal"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "green_peafowl.webp",
     "featured": ["false"]
   },
@@ -1532,7 +1532,7 @@
     "dimensions": "5x5 inches",
     "media": ["micron pen"],
     "content": ["frog", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "rusty_spotted_cat.webp",
     "featured": ["false"]
   },
@@ -1543,7 +1543,7 @@
     "dimensions": "3x3 inches",
     "media": ["micron pen"],
     "content": ["bats", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "honduran_white_bat.webp",
     "featured": ["false"]
   },
@@ -1554,7 +1554,7 @@
     "dimensions": "6x6 inches",
     "media": ["micron pen", "ink"],
     "content": ["frog", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "gopher_frog.webp",
     "featured": ["false"]
   },
@@ -1565,7 +1565,7 @@
     "dimensions": "6x6 inches",
     "media": ["micron pen", "ink"],
     "content": ["owl", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "long_whiskered_owlet.webp",
     "featured": ["true"]
   },
@@ -1576,7 +1576,7 @@
     "dimensions": "6x6 inches",
     "media": ["digital"],
     "content": ["turtle", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "yangtze_giant_soft_shell_turtle.webp",
     "featured": ["false"]
   },
@@ -1587,7 +1587,7 @@
     "dimensions": "4x9 inches",
     "media": ["watercolor"],
     "content": ["crab", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "horseshoe_crab.webp",
     "featured": ["false"]
   },
@@ -1598,7 +1598,7 @@
     "dimensions": "6x6 inches",
     "media": ["watercolor"],
     "content": ["bird", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "philippine_eagle_owl.webp",
     "featured": ["false"]
   },
@@ -1609,7 +1609,7 @@
     "dimensions": "4x4 inches",
     "media": ["watercolor"],
     "content": ["coral", "plant"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "elkhorn_coral.webp",
     "featured": ["false"]
   },
@@ -1620,7 +1620,7 @@
     "dimensions": "6x6 inches",
     "media": ["micron pen", "ink"],
     "content": ["wolverine", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "wolverine.webp",
     "featured": ["false"]
   },
@@ -1631,7 +1631,7 @@
     "dimensions": "6x9 inches",
     "media": ["digital"],
     "content": ["bird", "dinosaur", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "southern_cassowary.webp",
     "featured": ["false"]
   },
@@ -1642,7 +1642,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen", "ink", "watercolor"],
     "content": ["bear", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "sun_bear.webp",
     "featured": ["false"]
   },
@@ -1653,7 +1653,7 @@
     "dimensions": "8x10 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["people", "plant", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "sea_tangle.webp",
     "featured": ["false"]
   },
@@ -1664,7 +1664,7 @@
     "dimensions": "6x8 inches",
     "media": ["ink"],
     "content": ["bird", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "mao.webp",
     "featured": ["false"]
   },
@@ -1675,7 +1675,7 @@
     "dimensions": "6x8 inches",
     "media": ["watercolor", "ink"],
     "content": ["butterfly", "animal", "insect"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "large_blue_butterfly.webp",
     "featured": ["false"]
   },
@@ -1686,7 +1686,7 @@
     "dimensions": "8.5x11 inches",
     "media": ["micron pen"],
     "content": ["manatee", "animal", "people", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "amazonian_manatee.webp",
     "featured": ["false"]
   },
@@ -1697,7 +1697,7 @@
     "dimensions": "5x5 inches",
     "media": ["watercolor"],
     "content": ["tree", "plant"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "mangroves.webp",
     "featured": ["false"]
   },
@@ -1708,7 +1708,7 @@
     "dimensions": "4x6 inches",
     "media": ["watercolor"],
     "content": ["dog", "animal"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "painted_wolf.webp",
     "featured": ["false"]
   },
@@ -1719,7 +1719,7 @@
     "dimensions": "7x9 inches",
     "media": ["watercolor", "acrylic", "painting"],
     "content": ["bird", "animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "reeve_s_pheasant.webp",
     "featured": ["false"]
   },
@@ -1730,7 +1730,7 @@
     "dimensions": "5x5 inches",
     "media": ["digital"],
     "content": ["turtle", "tortoise", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "desert_tortoise.webp",
     "featured": ["false"]
   },
@@ -1741,7 +1741,7 @@
     "dimensions": "6x9 inches",
     "media": ["watercolor"],
     "content": ["insect", "ladybug", "animal", "print", "cards", "stickers"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "two_spot_ladybug.webp",
     "featured": ["true"]
   },
@@ -1752,7 +1752,7 @@
     "dimensions": "4x6 inches",
     "media": ["watercolor", "micron pen"],
     "content": ["cat", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "asiatic_lion.webp",
     "featured": ["false"]
   },
@@ -1763,7 +1763,7 @@
     "dimensions": "8.5x11 inches",
     "media": ["micron pen"],
     "content": ["deer", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "pampas_deer.webp",
     "featured": ["false"]
   },
@@ -1774,7 +1774,7 @@
     "dimensions": "8x8 inches",
     "media": ["watercolor", "ink"],
     "content": ["rabbit", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "riverine_rabbit.webp",
     "featured": ["false"]
   },
@@ -1785,7 +1785,7 @@
     "dimensions": "6x9 inches",
     "media": ["watercolor"],
     "content": ["bird", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "hillstar_hummingbird.webp",
     "featured": ["false"]
   },
@@ -1796,7 +1796,7 @@
     "dimensions": "5x5 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["cat", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "irimote_cat.webp",
     "featured": ["false"]
   },
@@ -1807,7 +1807,7 @@
     "dimensions": "9x12 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["catboy", "animal", "people", "fantasy", "fanart"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "tarquin.webp",
     "featured": ["true"]
   },
@@ -1818,7 +1818,7 @@
     "dimensions": "5x7 inches",
     "media": ["woodblock", "printmaking"],
     "content": ["rabbit", "animal", "fantasy", "landscape"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "almost_rabbits_II.webp",
     "featured": ["true"]
   },
@@ -1829,7 +1829,7 @@
     "dimensions": "8x8 inches",
     "media": ["micron pen"],
     "content": ["dog", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "yoga_dogs.webp",
     "featured": ["false"]
   },
@@ -1840,7 +1840,7 @@
     "dimensions": "9x12 inches",
     "media": ["micron pen"],
     "content": ["dragon", "animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "tiny_dragon.webp",
     "featured": ["true"]
   },
@@ -1851,7 +1851,7 @@
     "dimensions": "8x8 inches",
     "media": ["micron pen"],
     "content": ["leopard", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "amir_leopard.webp",
     "featured": ["false"]
   },
@@ -1862,7 +1862,7 @@
     "dimensions": "8x8 inches",
     "media": ["micron pen", "ink"],
     "content": ["leopard", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "starfish.webp",
     "featured": ["false"]
   },
@@ -1873,7 +1873,7 @@
     "dimensions": "8x8 inches",
     "media": ["micron pen"],
     "content": ["bear", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "white_kermode_bear.webp",
     "featured": ["false"]
   },
@@ -1884,7 +1884,7 @@
     "dimensions": "8x8 inches",
     "media": ["micron pen"],
     "content": ["bird", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "great_bustard.webp",
     "featured": ["false"]
   },
@@ -1895,7 +1895,7 @@
     "dimensions": "8x8 inches",
     "media": ["ink", "watercolor"],
     "content": ["waterlily", "plant"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "sacred_blue_lily_of_the_nile.webp",
     "featured": ["false"]
   },
@@ -1906,7 +1906,7 @@
     "dimensions": "8x8 inches",
     "media": ["micron pen"],
     "content": ["fish", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "narwhal.webp",
     "featured": ["false"]
   },
@@ -1917,7 +1917,7 @@
     "dimensions": "7x8 inches",
     "media": ["micron pen", "ink"],
     "content": ["fish", "animal", "print", "cards"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "white_spotted_char.webp",
     "featured": ["true"]
   },
@@ -1928,7 +1928,7 @@
     "dimensions": "8x8 inches",
     "media": ["ink"],
     "content": ["bird", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "rhinoceros_hornbill.webp",
     "featured": ["false"]
   },
@@ -1939,7 +1939,7 @@
     "dimensions": "8.5x11 inches",
     "media": ["micron pen"],
     "content": ["snake", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "short-nosed_sea_snake.webp",
     "featured": ["false"]
   },
@@ -1950,7 +1950,7 @@
     "dimensions": "8x8 inches",
     "media": ["micron pen"],
     "content": ["leopard", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "alcathoe_bat.webp",
     "featured": ["false"]
   },
@@ -1961,7 +1961,7 @@
     "dimensions": "6x6 inches",
     "media": ["micron pen", "ink"],
     "content": ["flower", "plant"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "waling_waling_orchid.webp",
     "featured": ["false"]
   },
@@ -1972,7 +1972,7 @@
     "dimensions": "10x10 inches",
     "media": ["ink"],
     "content": ["bird", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "imperial_pidgeon.webp",
     "featured": ["false"]
   },
@@ -1983,7 +1983,7 @@
     "dimensions": "10x10 inches",
     "media": ["ink"],
     "content": ["sting ray", "animal"],
-    "forSale": true,
+    "forSale": ["true"],
     "link": "manta_ray.webp",
     "featured": ["false"]
   },
@@ -1994,7 +1994,7 @@
     "dimensions": "10x10 inches",
     "media": ["micron pen", "ink"],
     "content": ["seahorse", "animal"],
-    "forSale": true,
+    "forSale": ["true"],
     "link": "long_snouted_seahorse.webp",
     "featured": ["false"]
   },
@@ -2005,7 +2005,7 @@
     "dimensions": "6x6 inches",
     "media": ["micron pen"],
     "content": ["lemur", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "ring_tailed_lemur.webp",
     "featured": ["false"]
   },
@@ -2016,7 +2016,7 @@
     "dimensions": "10x10 inches",
     "media": ["ink"],
     "content": ["bird", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "hamerkop.webp",
     "featured": ["false"]
   },
@@ -2027,7 +2027,7 @@
     "dimensions": "8x8 inches",
     "media": ["ink", "watercolor"],
     "content": ["bird", "animal"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "moorhen.webp",
     "featured": ["false"]
   },
@@ -2038,7 +2038,7 @@
     "dimensions": "8x8 inches",
     "media": ["micron pen"],
     "content": ["salamander", "animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "salamander.webp",
     "featured": ["false"]
   },
@@ -2049,7 +2049,7 @@
     "dimensions": "10x10 inches",
     "media": ["ink", "watercolor"],
     "content": ["leopard", "animal"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "snow_leopard.webp",
     "featured": ["false"]
   },
@@ -2060,7 +2060,7 @@
     "dimensions": "8.5x11 inches",
     "media": ["micron pen", "ink"],
     "content": ["owl", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "snowy_owl.webp",
     "featured": ["false"]
   },
@@ -2071,7 +2071,7 @@
     "dimensions": "8x8 inches",
     "media": ["ink"],
     "content": ["tree", "landscape", "plant"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "kapok_tree.webp",
     "featured": ["false"]
   },
@@ -2082,7 +2082,7 @@
     "dimensions": "8.5x11 inches",
     "media": ["micron pen"],
     "content": ["lizard", "animal", "plant"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "four_horned_chameleon.webp",
     "featured": ["false"]
   },
@@ -2093,7 +2093,7 @@
     "dimensions": "8x8 inches",
     "media": ["micron pen", "ink"],
     "content": ["monkey", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "golden_snub_nosed_monkey.webp",
     "featured": ["false"]
   },
@@ -2104,7 +2104,7 @@
     "dimensions": "8x8 inches",
     "media": ["ink"],
     "content": ["antelope", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "tibetan_antelope.webp",
     "featured": ["false"]
   },
@@ -2115,7 +2115,7 @@
     "dimensions": "8x10 inches",
     "media": ["micron pen"],
     "content": ["bee", "animal", "flower", "plant"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "bee.webp",
     "featured": ["false"]
   },
@@ -2126,7 +2126,7 @@
     "dimensions": "8x10 inches",
     "media": ["micron pen"],
     "content": ["bird", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "brown_eared_pheasant.webp",
     "featured": ["false"]
   },
@@ -2137,7 +2137,7 @@
     "dimensions": "8x8 inches",
     "media": ["ink"],
     "content": ["tree", "landscape", "plant"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "balete_tree.webp",
     "featured": ["false"]
   },
@@ -2148,7 +2148,7 @@
     "dimensions": "8.5x11 inches",
     "media": ["micron pen"],
     "content": ["frog", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "white_spotted_bush_frog.webp",
     "featured": ["false"]
   },
@@ -2159,7 +2159,7 @@
     "dimensions": "8x8 inches",
     "media": ["micron pen", "ink"],
     "content": ["crocodile", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "slender_snouted_crocodile.webp",
     "featured": ["false"]
   },
@@ -2170,7 +2170,7 @@
     "dimensions": "8x10 inches",
     "media": ["micron pen", "ink"],
     "content": ["cat", "animal", "plant"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "scottish_wildcat.webp",
     "featured": ["false"]
   },
@@ -2181,7 +2181,7 @@
     "dimensions": "8x10 inches",
     "media": ["micron pen"],
     "content": ["deer", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "eld_s_deer.webp",
     "featured": ["true"]
   },
@@ -2192,7 +2192,7 @@
     "dimensions": "8x10 inches",
     "media": ["watercolor"],
     "content": ["dog", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "jindo_puppy.webp",
     "featured": ["false"]
   },
@@ -2203,7 +2203,7 @@
     "dimensions": "8x10 inches",
     "media": ["watercolor"],
     "content": ["cat", "animal", "fanart"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "grumpy_cat.webp",
     "featured": ["false"]
   },
@@ -2214,7 +2214,7 @@
     "dimensions": "6x9 inches",
     "media": ["watercolor"],
     "content": ["people", "fanart"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "lady_in_black.webp",
     "featured": ["false"]
   },
@@ -2225,7 +2225,7 @@
     "dimensions": "4x6 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["people", "fantasy", "fanart"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "for_the_blood_god.webp",
     "featured": ["false"]
   },
@@ -2236,7 +2236,7 @@
     "dimensions": "5x5 inches",
     "media": ["digital"],
     "content": ["people", "fantasy", "fanart"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "miqo_te.webp",
     "featured": ["false"]
   },
@@ -2247,7 +2247,7 @@
     "dimensions": "10x10 inches",
     "media": ["watercolor"],
     "content": ["fish", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "stalking_unaware.webp",
     "featured": ["false"]
   },
@@ -2258,7 +2258,7 @@
     "dimensions": "10x10 inches",
     "media": ["watercolor", "ink"],
     "content": ["bird", "animal", "print", "cards"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "phoenix_s_shadow.webp",
     "featured": ["true"]
   },
@@ -2269,7 +2269,7 @@
     "dimensions": "11x14 inches",
     "media": ["micron pen", "watercolor", "ink"],
     "content": ["dog", "animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "just_before_dawn.webp",
     "featured": ["true"]
   },
@@ -2280,7 +2280,7 @@
     "dimensions": "5x7 inches",
     "media": ["woodblock", "printmaking"],
     "content": ["rabbit", "animal", "fantasy", "landscape"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "almost_rabbits.webp",
     "featured": ["false"]
   },
@@ -2291,7 +2291,7 @@
     "dimensions": "6x10 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["people", "fantasy", "fanart"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "white_mage.webp",
     "featured": ["false"]
   },
@@ -2302,7 +2302,7 @@
     "dimensions": "8.5x11 inches",
     "media": ["micron pen"],
     "content": ["dog", "animal", "landscape"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "a_small_hunt.webp",
     "featured": ["false"]
   },
@@ -2313,7 +2313,7 @@
     "dimensions": "5x7 inches",
     "media": ["watercolor", "ink"],
     "content": ["rabbit", "animal", "fantasy", "landscape", "print", "cards"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "almost_rabbits_watercolor.webp",
     "featured": ["true"]
   },
@@ -2324,7 +2324,7 @@
     "dimensions": "9x12 inches",
     "media": ["watercolor", "ink"],
     "content": ["cat", "animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "adding_wings_to_a_tiger.webp",
     "featured": ["false"]
   },
@@ -2335,7 +2335,7 @@
     "dimensions": "2.5x3.5 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["dog", "animal"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "shepherds.webp",
     "featured": ["false"]
   },
@@ -2346,7 +2346,7 @@
     "dimensions": "2.5x3.5 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["dog", "animal"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "wow_fall.webp",
     "featured": ["false"]
   },
@@ -2357,7 +2357,7 @@
     "dimensions": "8x10 inches",
     "media": ["micron pen", "ink"],
     "content": ["cat", "animal", "landscape", "plant"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "catch.webp",
     "featured": ["false"]
   },
@@ -2368,7 +2368,7 @@
     "dimensions": "6x8 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["vehicle", "fantasy", "fanart"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "alpha_and_omega.webp",
     "featured": ["true"]
   },
@@ -2379,7 +2379,7 @@
     "dimensions": "6x9 inches",
     "media": ["ink"],
     "content": ["landscape", "print"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "nighttime_beach.webp",
     "featured": ["true"]
   },
@@ -2390,7 +2390,7 @@
     "dimensions": "6x8 inches",
     "media": ["micron pen", "ink", "watercolor"],
     "content": ["dog", "animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "juno.webp",
     "featured": ["false"]
   },
@@ -2401,7 +2401,7 @@
     "dimensions": "9x12 inches",
     "media": ["micron pen"],
     "content": ["rabbit", "animal", "landscape"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "making_medicine.webp",
     "featured": ["false"]
   },
@@ -2412,7 +2412,7 @@
     "dimensions": "7x9 inches",
     "media": ["ink"],
     "content": ["snake", "animal", "plant"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "sling.webp",
     "featured": ["false"]
   },
@@ -2423,7 +2423,7 @@
     "dimensions": "6x10 inches",
     "media": ["ink"],
     "content": ["jellyfish", "animal", "print"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "ghost.webp",
     "featured": ["false"]
   },
@@ -2434,7 +2434,7 @@
     "dimensions": "6x9 inches",
     "media": ["ink", "watercolor"],
     "content": ["cat", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "enchanted.webp",
     "featured": ["true"]
   },
@@ -2445,7 +2445,7 @@
     "dimensions": "6x9 inches",
     "media": ["ink"],
     "content": ["landscape", "tree", "mountain", "plant"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "grand_tetons_national_park.webp",
     "featured": ["false"]
   },
@@ -2456,7 +2456,7 @@
     "dimensions": "6x9 inches",
     "media": ["ink"],
     "content": ["crow", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "playing_crow.webp",
     "featured": ["true"]
   },
@@ -2467,7 +2467,7 @@
     "dimensions": "9x12 inches",
     "media": ["micron pen", "colored pencil"],
     "content": ["dog", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "the_jeebs.webp",
     "featured": ["false"]
   },
@@ -2478,7 +2478,7 @@
     "dimensions": "8x18 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["dog", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "family_portrait.webp",
     "featured": ["false"]
   },
@@ -2489,7 +2489,7 @@
     "dimensions": "9x12 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["dog", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "red_jindos_pet_portrait.webp",
     "featured": ["false"]
   },
@@ -2500,7 +2500,7 @@
     "dimensions": "8x18 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["dog", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "shepherds_of_love.webp",
     "featured": ["true"]
   },
@@ -2511,7 +2511,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["dog", "animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "noble_steed.webp",
     "featured": ["false"]
   },
@@ -2522,7 +2522,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["dog", "animal", "fantasy", "fanart"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "spiderdog.webp",
     "featured": ["false"]
   },
@@ -2533,7 +2533,7 @@
     "dimensions": "6x9 inches",
     "media": ["digital"],
     "content": ["dog", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "puppy_love.webp",
     "featured": ["false"]
   },
@@ -2544,7 +2544,7 @@
     "dimensions": "6x9 inches",
     "media": ["woodblock", "printmaking"],
     "content": ["dog", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "finnley_s_treasure.webp",
     "featured": ["true"]
   },
@@ -2555,7 +2555,7 @@
     "dimensions": "8x10 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["dog", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "the_researcher.webp",
     "featured": ["false"]
   },
@@ -2566,7 +2566,7 @@
     "dimensions": "2.5x3.5 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["dog", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "dodger.webp",
     "featured": ["false"]
   },
@@ -2577,7 +2577,7 @@
     "dimensions": "9x12 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["dog", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "lil_jindo_pet_portrait.webp",
     "featured": ["false"]
   },
@@ -2588,7 +2588,7 @@
     "dimensions": "9x12 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["dog", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "goji_pet_portrait.webp",
     "featured": ["true"]
   },
@@ -2599,7 +2599,7 @@
     "dimensions": "6x9 inches",
     "media": ["acrylic", "painting"],
     "content": ["dog", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "rudy.webp",
     "featured": ["false"]
   },
@@ -2610,7 +2610,7 @@
     "dimensions": "8x7 inches",
     "media": ["watercolor"],
     "content": ["plant", "landscape"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "bahia_pez_vela.webp",
     "featured": ["false"]
   },
@@ -2621,7 +2621,7 @@
     "dimensions": "8.5x11 inches",
     "media": ["micron pen"],
     "content": ["dog", "animal", "landscape"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "chasing_stray_hares.webp",
     "featured": ["false"]
   },
@@ -2632,7 +2632,7 @@
     "dimensions": "10x20 inches",
     "media": ["letterpress", "printmaking"],
     "content": ["dog", "animal"],
-    "forSale": false,
+    "forSale": ["true"],
     "link": "dog_alphabet.webp",
     "featured": ["false"]
   },
@@ -2643,7 +2643,7 @@
     "dimensions": "9x12 inches",
     "media": ["colored pencil"],
     "content": ["cat", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "akasha.webp",
     "additionalImages": ["akasha_sketch.webp"],
     "featured": ["false"]
@@ -2655,7 +2655,7 @@
     "dimensions": "18x24 inches",
     "media": ["micron pen", "marker", "digital"],
     "content": ["dog", "animal", "stickers"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "family_canidae_poster.webp",
     "additionalImages": ["family_canidae_goods.webp"],
     "featured": ["false"]
@@ -2667,7 +2667,7 @@
     "dimensions": "9x12 inches",
     "media": ["sculpture", "sculpey", "acrylic", "painting"],
     "content": ["wolf", "anthro", "fantasy", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "nightsong_commission.webp",
     "featured": ["false"]
   },
@@ -2678,7 +2678,7 @@
     "dimensions": "9x12 inches",
     "media": ["colored pencil", "pencil"],
     "content": ["wolf", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "unfinished_idea.webp",
     "featured": ["false"]
   },
@@ -2689,7 +2689,7 @@
     "dimensions": "8x8 inches",
     "media": ["sculpture", "sculpey", "acrylic", "painting"],
     "content": ["phoenix", "fantasy", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "copper_phoenix.webp",
     "featured": ["false"]
   },
@@ -2700,7 +2700,7 @@
     "dimensions": "3x5 inches",
     "media": ["sculpture", "sculpey", "acrylic", "painting"],
     "content": ["wolf", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "red_sculpture.webp",
     "additionalImages": ["red_sculpture_more_angles.webp"],
     "featured": ["false"]
@@ -2712,7 +2712,7 @@
     "dimensions": "9x12 inches",
     "media": ["colored pencil"],
     "content": ["car", "vehicle"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "f430.webp",
     "featured": ["false"]
   },
@@ -2723,7 +2723,7 @@
     "dimensions": "9x12 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["horse", "animal", "landscape"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "the_other_side.webp",
     "featured": ["false"]
   },
@@ -2734,7 +2734,7 @@
     "dimensions": "2.5x3.5 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["car", "vehicle"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "classic.webp",
     "featured": ["false"]
   },
@@ -2745,7 +2745,7 @@
     "dimensions": "9x12 inches",
     "media": ["colored pencil"],
     "content": ["crab", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "sally_lightfoot_crab.webp",
     "featured": ["true"]
   },
@@ -2756,7 +2756,7 @@
     "dimensions": "9x12 inches",
     "media": ["watercolor"],
     "content": ["mink", "skeleton", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "portrait_of_a_mink.webp",
     "featured": ["true"]
   },
@@ -2767,7 +2767,7 @@
     "dimensions": "10x5 inches",
     "media": ["sculpture", "sculpey", "acrylic", "painting"],
     "content": ["cat", "animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "mountain_god.webp",
     "featured": ["false"]
   },
@@ -2778,7 +2778,7 @@
     "dimensions": "2.5x3.5 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["dog", "cow", "animal", "landscape"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "herd_watching.webp",
     "featured": ["false"]
   },
@@ -2789,7 +2789,7 @@
     "dimensions": "10x10 inches",
     "media": ["watercolor"],
     "content": ["butterfly", "animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "soul.webp",
     "featured": ["false"]
   },
@@ -2807,7 +2807,7 @@
       "painting"
     ],
     "content": ["cat", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "jester_and_the_ninja.webp",
     "featured": ["false"]
   },
@@ -2818,7 +2818,7 @@
     "dimensions": "10x14 inches",
     "media": ["watercolor"],
     "content": ["fox", "animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "sunset_on_the_cosmos.webp",
     "featured": ["false"]
   },
@@ -2829,7 +2829,7 @@
     "dimensions": "8x18 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["iguana", "animal", "fantasy", "landscape"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "galapagos.webp",
     "featured": ["true"]
   },
@@ -2840,7 +2840,7 @@
     "dimensions": "2.5x3.5 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["fox", "rabbit", "animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "christmas_in_the_woods.webp",
     "featured": ["false"]
   },
@@ -2851,7 +2851,7 @@
     "dimensions": "2.5x3.5 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["dog", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "time_to_decorate.webp",
     "featured": ["false"]
   },
@@ -2862,7 +2862,7 @@
     "dimensions": "2.5x3.5 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["hamster", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "littlest_helper.webp",
     "featured": ["false"]
   },
@@ -2873,7 +2873,7 @@
     "dimensions": "12x16 inches",
     "media": ["acrylic", "painting"],
     "content": ["naga", "snake", "fantasy", "animal", "people"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "a_gift.webp",
     "featured": ["false"]
   },
@@ -2884,7 +2884,7 @@
     "dimensions": "2.5x3.5 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["raven", "animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "corvus_research_project.webp",
     "featured": ["false"]
   },
@@ -2895,7 +2895,7 @@
     "dimensions": "8.5x11 inches",
     "media": ["micron pen", "colored pencil"],
     "content": ["wolf", "skeleton", "animal", "fantasy", "landscape"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "keeper_of_the_valley.webp",
     "featured": ["false"]
   },
@@ -2906,7 +2906,7 @@
     "dimensions": "2.5x3.5 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["rabbit", "bee", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "helping_the_honey_bee.webp",
     "featured": ["false"]
   },
@@ -2917,7 +2917,7 @@
     "dimensions": "4x8 inches",
     "media": ["sculpture", "sculpey"],
     "content": ["wolf", "demon", "fantasy", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "laughing_demon.webp",
     "featured": ["false"]
   },
@@ -2928,7 +2928,7 @@
     "dimensions": "4x4 inches",
     "media": ["sculpture", "sculpey", "mixed media"],
     "content": ["leopard", "cat", "fantasy", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "the_jewel_collector.webp",
     "featured": ["false"]
   },
@@ -2939,7 +2939,7 @@
     "dimensions": "8.5x11 inches",
     "media": ["micron pen", "ink"],
     "content": ["dog", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "pearl.webp",
     "featured": ["false"]
   },
@@ -2950,7 +2950,7 @@
     "dimensions": "6x12 inches",
     "media": ["sculpture", "sculpey", "acrylic", "mixed media", "painting"],
     "content": ["wolf", "demon", "child", "fantasy", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "time_for_bed_mr_demon.webp",
     "additionalImages": ["raw_sculpture.webp"],
     "featured": ["false"]
@@ -2962,7 +2962,7 @@
     "dimensions": "8.5x11 inches",
     "media": ["micron pen", "colored pencil", "marker"],
     "content": ["wolf", "cat", "anthro", "fantasy", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "the_pharaoh_s_daughter.webp",
     "featured": ["false"]
   },
@@ -2973,7 +2973,7 @@
     "dimensions": "8.5x11 inches",
     "media": ["colored pencil"],
     "content": ["wolf", "fantasy", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "volatile.webp",
     "featured": ["false"]
   },
@@ -2984,7 +2984,7 @@
     "dimensions": "14x18 inches",
     "media": ["micron pen", "colored pencil", "marker", "mixed media"],
     "content": ["wolf", "butterfly", "fantasy", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "the_jester.webp",
     "featured": ["false"]
   },
@@ -2995,7 +2995,7 @@
     "dimensions": "4x4 inches",
     "media": ["micron pen", "colored pencil", "marker"],
     "content": ["rabbit", "jackalope", "fantasy", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "lady_levye.webp",
     "featured": ["false"]
   },
@@ -3006,7 +3006,7 @@
     "dimensions": "4x5 feet",
     "media": ["oil", "painting"],
     "content": ["car", "vehicle", "landscape"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "raining_in_my_dreams.webp",
     "featured": ["false"]
   },
@@ -3017,7 +3017,7 @@
     "dimensions": "3x4 inches",
     "media": ["micron pen", "digital"],
     "content": ["octopus", "animal", "fantasy"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "no_mercy.png",
     "featured": ["false"]
   },
@@ -3028,7 +3028,7 @@
     "dimensions": "8.5x11 inches",
     "media": ["pencil"],
     "content": ["car", "vehicle"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "corvette.webp",
     "featured": ["false"]
   },
@@ -3039,7 +3039,7 @@
     "dimensions": "8.5x11 inches",
     "media": ["pencil"],
     "content": ["motorcycle", "vehicle"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "open_road.webp",
     "featured": ["false"]
   },
@@ -3050,7 +3050,7 @@
     "dimensions": "1.5x2 feet",
     "media": ["micron pen", "marker"],
     "content": ["car", "vehicle"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "somewhere_on_the_line.webp",
     "featured": ["false"]
   },
@@ -3061,7 +3061,7 @@
     "dimensions": "8.5x11 inches",
     "media": ["watercolor"],
     "content": ["wolf", "anthro", "fantasy", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "goddess_of_the_sea.webp",
     "featured": ["false"]
   },
@@ -3072,7 +3072,7 @@
     "dimensions": "2x2 feet",
     "media": ["mixed media", "marker", "fabric", "glitter"],
     "content": ["phoenix", "fantasy", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "flight_of_the_phoenix.webp",
     "featured": ["false"]
   },
@@ -3083,7 +3083,7 @@
     "dimensions": "8.5x11 inches",
     "media": ["micron pen"],
     "content": ["cat", "ocelot", "fantasy", "animal"],
-    "forSale": false,
+    "forSale": ["false"],
     "link": "if_only_i_could_fly.webp",
     "featured": ["false"]
   }

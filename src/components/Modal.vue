@@ -1,10 +1,10 @@
 <script setup>
-import { inject, ref } from 'vue';
-import { onClickOutside } from '@vueuse/core';
+import { inject, ref } from "vue";
+import { onClickOutside } from "@vueuse/core";
 
-const isModalVisible = inject('isModalVisible');
-const modalImage = inject('modalImage');
-const closeModal = inject('closeModal');
+const isModalVisible = inject("isModalVisible");
+const modalImage = inject("modalImage");
+const closeModal = inject("closeModal");
 
 const modal = ref(null);
 
@@ -14,18 +14,32 @@ onClickOutside(modal, () => {
 </script>
 
 <template>
-  <div :class="`${isModalVisible ? 'modal is-visible' : 'modal'}`" id="art-modal" v-show="isModalVisible">
+  <div
+    :class="`${isModalVisible ? 'modal is-visible' : 'modal'}`"
+    id="art-modal"
+    v-show="isModalVisible"
+  >
     <div class="modal-dialog" ref="modal">
       <header class="modal-header">
         <h2 class="modal-title">{{ modalImage?.title }}</h2>
-        <button class="close-modal" aria-label="close modal" @click="closeModal">×</button>
+        <button
+          class="close-modal"
+          aria-label="close modal"
+          @click="closeModal"
+        >
+          ×
+        </button>
       </header>
       <section class="modal-content">
         <img :src="`./art/${modalImage?.link}`" :alt="modalImage?.desc" />
         <div>
           <p>
             {{ modalImage?.date }} &nbsp; | &nbsp;
-            {{ modalImage?.media.map((word) => word.charAt(0).toUpperCase() + word.slice(1)).join(', ') }}
+            {{
+              modalImage?.media
+                .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+                .join(", ")
+            }}&nbsp; | &nbsp;{{ modalImage?.dimensions }}
           </p>
         </div>
       </section>

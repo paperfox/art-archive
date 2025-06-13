@@ -1,7 +1,7 @@
 <script setup>
-import { ref, computed, onMounted } from 'vue';
-import artwork from '../data/artData';
-import ArtLists from './ArtLists.vue';
+import { ref, computed, onMounted } from "vue";
+import artwork from "../data/artData";
+import ArtLists from "./ArtLists.vue";
 
 const props = defineProps({
   artwork: {
@@ -9,7 +9,9 @@ const props = defineProps({
   },
 });
 
-const activeFilters = ref([{ filterType: 'featured', filterValue: 'true', filterName: 'Featured' }]);
+const activeFilters = ref([
+  { filterType: "forSale", filterValue: "true", filterName: "For Sale" },
+]);
 const activeFilterClass = ref({
   true: true, // featured selected by default - this naming is confusing
 });
@@ -20,21 +22,26 @@ const images = artwork.map((art) => `./art/${art.link}`);
 
 // Filter buttons
 const filterButtons = [
-  { filterType: 'featured', filterValue: 'true', filterName: 'Featured' },
-  { filterType: 'media', filterValue: 'watercolor', filterName: 'Watercolor' },
-  { filterType: 'media', filterValue: 'ink', filterName: 'Ink' },
-  { filterType: 'media', filterValue: 'micron pen', filterName: 'micron pen' },
-  { filterType: 'media', filterValue: 'printmaking', filterName: 'Printmaking' },
-  { filterType: 'media', filterValue: 'digital', filterName: 'Digital' },
-  { filterType: 'media', filterValue: 'painting', filterName: 'Acrylic/Oil' },
-  { filterType: 'media', filterValue: 'sculpture', filterName: 'Sculpture' },
-  { filterType: 'content', filterValue: 'animal', filterName: 'Animal' },
-  { filterType: 'content', filterValue: 'fanart', filterName: 'Fan Art' },
-  { filterType: 'content', filterValue: 'fantasy', filterName: 'Fantasy' },
-  { filterType: 'content', filterValue: 'landscape', filterName: 'Landscape' },
-  { filterType: 'content', filterValue: 'people', filterName: 'People' },
-  { filterType: 'content', filterValue: 'plant', filterName: 'Plants' },
-  { filterType: 'content', filterValue: 'vehicle', filterName: 'Vehicles' },
+  // { filterType: "featured", filterValue: "true", filterName: "Featured" },
+  { filterType: "forSale", filterValue: "true", filterName: "For Sale" },
+  { filterType: "media", filterValue: "watercolor", filterName: "Watercolor" },
+  { filterType: "media", filterValue: "ink", filterName: "Ink" },
+  { filterType: "media", filterValue: "micron pen", filterName: "micron pen" },
+  {
+    filterType: "media",
+    filterValue: "printmaking",
+    filterName: "Printmaking",
+  },
+  { filterType: "media", filterValue: "digital", filterName: "Digital" },
+  { filterType: "media", filterValue: "painting", filterName: "Acrylic/Oil" },
+  { filterType: "media", filterValue: "sculpture", filterName: "Sculpture" },
+  { filterType: "content", filterValue: "animal", filterName: "Animal" },
+  { filterType: "content", filterValue: "fanart", filterName: "Fan Art" },
+  { filterType: "content", filterValue: "fantasy", filterName: "Fantasy" },
+  { filterType: "content", filterValue: "landscape", filterName: "Landscape" },
+  { filterType: "content", filterValue: "people", filterName: "People" },
+  { filterType: "content", filterValue: "plant", filterName: "Plants" },
+  { filterType: "content", filterValue: "vehicle", filterName: "Vehicles" },
 ];
 
 // Computed property for filters
@@ -52,14 +59,16 @@ const filteredArts = computed(() => {
 // Method to apply filter and toggle active button class
 const applyFilter = (filter) => {
   const index = activeFilters.value.findIndex(
-    (f) => f.filterType === filter.filterType && f.filterValue === filter.filterValue,
+    (f) =>
+      f.filterType === filter.filterType && f.filterValue === filter.filterValue
   );
   if (index === -1) {
     activeFilters.value.push(filter);
   } else {
     activeFilters.value.splice(index, 1);
   }
-  activeFilterClass.value[filter.filterValue] = !activeFilterClass.value[filter.filterValue];
+  activeFilterClass.value[filter.filterValue] =
+    !activeFilterClass.value[filter.filterValue];
 };
 </script>
 
@@ -79,7 +88,9 @@ const applyFilter = (filter) => {
           {{ filter.filterName }}
         </button>
       </div>
-      <p>Showing {{ filteredArts.length }} of {{ artwork.length }} art pieces</p>
+      <p>
+        Showing {{ filteredArts.length }} of {{ artwork.length }} art pieces
+      </p>
     </details>
     <ArtLists :images="filteredArts" />
   </div>
@@ -132,7 +143,7 @@ summary {
   margin-right: 3rem;
 
   &::after {
-    content: ' |';
+    content: " |";
     margin-left: 3rem;
     position: absolute;
     color: var(--text-body);
