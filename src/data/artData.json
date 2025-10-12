@@ -1,5 +1,49 @@
 [
   {
+    "title": "Long Tailed Duck",
+    "date": "Oct 6, 2025",
+    "desc": "Watercolor and micron pen drawing of a long tailed duck splashing in water.",
+    "dimensions": "4x4 inches",
+    "media": ["watercolor", "micron pen"],
+    "content": ["animal", "duck"],
+    "forSale": ["true"],
+    "link": "long_tailed_duck.webp",
+    "featured": ["true"]
+  },
+  {
+    "title": "Vicuna",
+    "date": "Oct 6, 2025",
+    "desc": "Watercolor and micron pen drawing of a mother and child vicuna standing in water.",
+    "dimensions": "4x4 inches",
+    "media": ["watercolor", "micron pen"],
+    "content": ["animal", "vicuna"],
+    "forSale": ["true"],
+    "link": "vicuna.webp",
+    "featured": ["true"]
+  },
+  {
+    "title": "Snapdragon",
+    "date": "Aug 11, 2025",
+    "desc": "Four color woodcut print of an orange and yellow snapdragon amongst leaves against a blue sky.",
+    "dimensions": "9x12 inches",
+    "media": ["printmaking", "woodcut"],
+    "content": ["plant", "flower"],
+    "forSale": ["true"],
+    "link": "snapdragon.webp",
+    "featured": ["false"]
+  },
+  {
+    "title": "Black Lace-Weaver",
+    "date": "Aug 8, 2025",
+    "desc": "Watercolor and micron pen drawing of a black lace-weaver spider sitting in a rocking chair on a porch chrocheting a web in the upper corner of the porch roof at sunrise.",
+    "dimensions": "4x4 inches",
+    "media": ["watercolor", "micron pen"],
+    "content": ["animal", "spider"],
+    "forSale": ["true"],
+    "link": "black_lace_weaver.webp",
+    "featured": ["true"]
+  },
+  {
     "title": "MASS PRIDE",
     "date": "May 29, 2025",
     "desc": "Watercolor painting 6 birds perched on branches creating the colors of the stripes progress pride flag. The background is blue box with a yellow and white glow at the top and a pink square around it. A small purple circle intercepting it at the top. The birds are, from left to write: a purple martin, a blue jay, a mourning warbler, an american goldfinch, an oriole, and a cardinal.",
@@ -17,7 +61,7 @@
     "dimensions": "5x7 inches",
     "media": ["watercolor", "micron pen"],
     "content": ["plant", "flower", "fantasy", "print"],
-    "forSale": ["true"],
+    "forSale": ["false"],
     "link": "crocus.webp",
     "featured": ["true"]
   },
@@ -28,7 +72,7 @@
     "dimensions": "5x9 inches",
     "media": ["watercolor", "micron pen"],
     "content": ["plant", "mushroom", "fantasy", "print"],
-    "forSale": ["true"],
+    "forSale": ["false"],
     "link": "mushroom_sus.webp",
     "featured": ["true"]
   },
@@ -83,7 +127,7 @@
     "dimensions": "5x7 inches",
     "media": ["watercolor", "micron pen"],
     "content": ["animal", "bird", "print"],
-    "forSale": ["true"],
+    "forSale": ["false"],
     "link": "cardinal.webp",
     "featured": ["false"]
   },
@@ -600,7 +644,7 @@
     "dimensions": "6x9 inches",
     "media": ["micron pen", "watercolor"],
     "content": ["otter", "animal", "plant", "landscape", "print"],
-    "forSale": ["true"],
+    "forSale": ["false"],
     "link": "japanese_river_otter.webp",
     "featured": ["false"]
   },
