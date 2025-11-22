@@ -88,9 +88,9 @@ const applyFilter = (filter) => {
           {{ filter.filterName }}
         </button>
       </div>
-      <!-- <p>
+      <p>
         Showing {{ filteredArts.length }} of {{ artwork.length }} art pieces
-      </p> -->
+      </p>
     </details>
     <ArtLists :images="filteredArts" />
   </div>
