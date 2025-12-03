@@ -11,6 +11,17 @@
     "featured": ["true"]
   },
   {
+    "title": "Andean Cat",
+    "date": "Oct 26, 2025",
+    "desc": "Watercolor and micron pen drawing of an andean cat on its back holding it's tail.",
+    "dimensions": "6x7 inches",
+    "media": ["watercolor", "micron pen"],
+    "content": ["animal", "cat"],
+    "forSale": ["true"],
+    "link": "andean-cat.webp",
+    "featured": ["true"]
+  },
+  {
     "title": "Under the Surface",
     "date": "Oct 24, 2025",
     "desc": "Watercolor and micron pen drawing of a black caiman peeking above the water.",
@@ -19,6 +30,17 @@
     "content": ["animal", "caiman"],
     "forSale": ["true"],
     "link": "under-the-surface.webp",
+    "featured": ["true"]
+  },
+  {
+    "title": "Diving: Sinking",
+    "date": "Oct 20, 2025",
+    "desc": "Watercolor and micron pen drawing of a sea serpent and two betta fish in turbulent water and an unsettled cloudy sky.",
+    "dimensions": "7x10 inches",
+    "media": ["watercolor", "micron pen"],
+    "content": ["animal", "sea serpent", "fish"],
+    "forSale": ["true"],
+    "link": "sea-serpent.webp",
     "featured": ["true"]
   },
   {
@@ -96,6 +118,28 @@
     "content": ["animal", "vicuna"],
     "forSale": ["true"],
     "link": "vicuna.webp",
+    "featured": ["true"]
+  },
+  {
+    "title": "Sloth Bear",
+    "date": "Oct 4, 2025",
+    "desc": "Watercolor and micron pen drawing of a mother sloth bear with two cubson her back with a wind and sun pattern behind them.",
+    "dimensions": "7x10 inches",
+    "media": ["watercolor", "micron pen"],
+    "content": ["animal", "bear"],
+    "forSale": ["true"],
+    "link": "sloth-bear.webp",
+    "featured": ["true"]
+  },
+  {
+    "title": "The Way Forward",
+    "date": "Oct 2, 2025",
+    "desc": "Watercolor and micron pen drawing of a puerto rican rock coqui from inside the moth of a cave looking out into a foggy landscape with 8 vines hanging down.",
+    "dimensions": "7x10 inches",
+    "media": ["watercolor", "micron pen"],
+    "content": ["animal", "frog"],
+    "forSale": ["true"],
+    "link": "frog-coqui.webp",
     "featured": ["true"]
   },
   {
