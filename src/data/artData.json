@@ -1,5 +1,49 @@
 [
   {
+    "title": "Season's Entrance",
+    "date": "Apr 3, 2026",
+    "desc": "Watercolor and micron pen drawing a morel mushroom wearing high heels holding sunglasses.",
+    "dimensions": "10x7 inches",
+    "media": ["watercolor", "micron pen"],
+    "content": ["plant", "mushroom"],
+    "forSale": ["true"],
+    "link": "seasons-entrance.webp",
+    "featured": ["true"]
+  },
+  {
+    "title": "Narcissus",
+    "date": "Mar 20, 2026",
+    "desc": "Watercolor painting of 7 daffodils blooming.",
+    "dimensions": "10x14 inches",
+    "media": ["watercolor"],
+    "content": ["plant", "flower"],
+    "forSale": ["true"],
+    "link": "narcissus.webp",
+    "featured": ["true"]
+  },
+  {
+    "title": "Cycles",
+    "date": "Jan 22, 2026",
+    "desc": "Watercolor and pen artwork of two robins flying around a young pine tree growing out of a fallen pine log on the shore with light breaking through the clouds.",
+    "dimensions": "10x14 inches",
+    "media": ["watercolor", "micron pen"],
+    "content": ["plant", "flower"],
+    "forSale": ["true"],
+    "link": "cycles.webp",
+    "featured": ["true"]
+  },
+  {
+    "title": "Diving: Sinking",
+    "date": "Oct 20, 2025",
+    "desc": "Watercolor and micron pen drawing of a sea serpent and two betta fish in turbulent water and an unsettled cloudy sky.",
+    "dimensions": "7x10 inches",
+    "media": ["watercolor", "micron pen"],
+    "content": ["animal", "sea serpent", "fish"],
+    "forSale": ["true"],
+    "link": "sea-serpent.webp",
+    "featured": ["true"]
+  },
+  {
     "title": "Ibis",
     "date": "Oct 30, 2025",
     "desc": "Watercolor and micron pen drawing of a crested ibis and abstract water splashes.",
@@ -132,6 +176,28 @@
     "featured": ["true"]
   },
   {
+    "title": "Cosmos",
+    "date": "Oct 4, 2025",
+    "desc": "Stained glass of two pink and one yellow cosmo flowers on a blue background.",
+    "dimensions": "10x19 inches",
+    "media": ["stained glass"],
+    "content": ["plant", "flower"],
+    "forSale": ["false"],
+    "link": "stainedglass_cosmos.webp",
+    "featured": ["false"]
+  },
+  {
+    "title": "Suncatchers",
+    "date": "Oct 2, 2025",
+    "desc": "Two stained glass suncatchers, one is an american goldfinch and the other is a blue dragonfly. Both are depicted in flight.",
+    "dimensions": "6x6 inches each",
+    "media": ["stained glass"],
+    "content": ["animal", "bird", "dragonfly"],
+    "forSale": ["false"],
+    "link": "stainedglass_suncatchers.webp",
+    "featured": ["false"]
+  },
+  {
     "title": "The Way Forward",
     "date": "Oct 2, 2025",
     "desc": "Watercolor and micron pen drawing of a puerto rican rock coqui from inside the moth of a cave looking out into a foggy landscape with 8 vines hanging down.",
@@ -140,6 +206,17 @@
     "content": ["animal", "frog"],
     "forSale": ["true"],
     "link": "frog-coqui.webp",
+    "featured": ["true"]
+  },
+  {
+    "title": "Almost Rabbits, Cosmic",
+    "date": "Sep 21, 2025",
+    "desc": "Woodcut print over a watercolor sky of a pair of jackalopes looking up at the full moon next to a leafless tree, the moon has a silhouette of a rabbit making medicine in it.",
+    "dimensions": "9x12 inches",
+    "media": ["printmaking", "woodcut"],
+    "content": ["animal", "jackalope", "rabbit", "fantasy"],
+    "forSale": ["true"],
+    "link": "almost_rabbits_cosmic.webp",
     "featured": ["true"]
   },
   {
