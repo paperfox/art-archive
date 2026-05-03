@@ -33,17 +33,6 @@
     "featured": ["true"]
   },
   {
-    "title": "Diving: Sinking",
-    "date": "Oct 20, 2025",
-    "desc": "Watercolor and micron pen drawing of a sea serpent and two betta fish in turbulent water and an unsettled cloudy sky.",
-    "dimensions": "7x10 inches",
-    "media": ["watercolor", "micron pen"],
-    "content": ["animal", "sea serpent", "fish"],
-    "forSale": ["true"],
-    "link": "sea-serpent.webp",
-    "featured": ["true"]
-  },
-  {
     "title": "Ibis",
     "date": "Oct 30, 2025",
     "desc": "Watercolor and micron pen drawing of a crested ibis and abstract water splashes.",
@@ -216,7 +205,7 @@
     "media": ["printmaking", "woodcut"],
     "content": ["animal", "jackalope", "rabbit", "fantasy"],
     "forSale": ["true"],
-    "link": "almost_rabbits_cosmic.webp",
+    "link": "almost-rabbits-cosmic.webp",
     "featured": ["true"]
   },
   {
