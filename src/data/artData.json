@@ -1,8 +1,52 @@
 [
   {
+    "title": "The Coming Storm",
+    "date": "Mar 15, 2026",
+    "desc": "Watercolor painting of storm clouds rolling in over the tree line as birds fly about.",
+    "dimensions": "2.5x3.5 inches",
+    "media": ["watercolor", "micron pen"],
+    "content": ["landscape", "bird"],
+    "forSale": ["true"],
+    "link": "capeCod.webp",
+    "featured": ["true"]
+  },
+  {
+    "title": "Sunset on the Dunes",
+    "date": "Mar 15, 2026",
+    "desc": "Watercolor painting of a sunset at the Cape Cod Dunes.",
+    "dimensions": "2.5x3.5 inches",
+    "media": ["watercolor", "micron pen"],
+    "content": ["landscape"],
+    "forSale": ["true"],
+    "link": "capeCod.webp",
+    "featured": ["true"]
+  },
+  {
+    "title": "Cabin",
+    "date": "Mar 15, 2026",
+    "desc": "Watercolor painting of a small cabin in a grassy field with trees behind it and a blue lightly cloudy sky.",
+    "dimensions": "2.5x3.5 inches",
+    "media": ["watercolor", "micron pen"],
+    "content": ["landscape"],
+    "forSale": ["true"],
+    "link": "blueSkyHouse.webp",
+    "featured": ["true"]
+  },
+  {
+    "title": "Mushroom Goes Birdwatching",
+    "date": "Mar 15, 2026",
+    "desc": "Watercolor and micron pen drawing of a mushroom holding binoculars, cloudy sky with bird silhouettes in the background.",
+    "dimensions": "2.5x3.5 inches",
+    "media": ["watercolor", "micron pen"],
+    "content": ["plant", "mushroom", "bird"],
+    "forSale": ["true"],
+    "link": "birdWatching.webp",
+    "featured": ["true"]
+  },
+  {
     "title": "Season's Entrance",
     "date": "Apr 3, 2026",
-    "desc": "Watercolor and micron pen drawing a morel mushroom wearing high heels holding sunglasses.",
+    "desc": "Watercolor and micron pen drawing of a morel mushroom wearing high heels holding sunglasses.",
     "dimensions": "10x7 inches",
     "media": ["watercolor", "micron pen"],
     "content": ["plant", "mushroom"],
