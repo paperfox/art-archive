@@ -1,5 +1,16 @@
 [
   {
+    "title": "Mushroom Goes Fishing",
+    "date": "Mar 15, 2026",
+    "desc": "Watercolor painting of a mushroom holding a fishing rod pulling up a fish in the foreground.",
+    "dimensions": "2.5x3.5 inches",
+    "media": ["watercolor"],
+    "content": ["plant", "mushroom", "fantasy"],
+    "forSale": ["true"],
+    "link": "artCards/fishing.webp",
+    "featured": ["true"]
+  },
+  {
     "title": "The Coming Storm",
     "date": "Mar 15, 2026",
     "desc": "Watercolor painting of storm clouds rolling in over the tree line as birds fly about.",
@@ -43,7 +54,17 @@
     "link": "artCards/birdWatching.webp",
     "featured": ["true"]
   },
-
+  {
+    "title": "Distant Rains",
+    "date": "Jan 15, 2026",
+    "desc": "Watercolor painting of clouds over water and in the distance it is raining.",
+    "dimensions": "2.5x3.5 inches",
+    "media": ["watercolor"],
+    "content": ["landscape"],
+    "forSale": ["true"],
+    "link": "artCards/distantRain.webp",
+    "featured": ["true"]
+  },
   {
     "title": "Cotton Candy Clouds",
     "date": "Jan 15, 2026",
