@@ -7,7 +7,7 @@
     "media": ["watercolor", "micron pen"],
     "content": ["landscape", "bird"],
     "forSale": ["true"],
-    "link": "capeCod.webp",
+    "link": "artCards/comingStorm.webp",
     "featured": ["true"]
   },
   {
@@ -18,7 +18,7 @@
     "media": ["watercolor", "micron pen"],
     "content": ["landscape"],
     "forSale": ["true"],
-    "link": "capeCod.webp",
+    "link": "artCards/capeCod.webp",
     "featured": ["true"]
   },
   {
@@ -29,7 +29,7 @@
     "media": ["watercolor", "micron pen"],
     "content": ["landscape"],
     "forSale": ["true"],
-    "link": "blueSkyHouse.webp",
+    "link": "artCards/blueSkyHouse.webp",
     "featured": ["true"]
   },
   {
@@ -40,7 +40,7 @@
     "media": ["watercolor", "micron pen"],
     "content": ["plant", "mushroom", "bird"],
     "forSale": ["true"],
-    "link": "birdWatching.webp",
+    "link": "artCards/birdWatching.webp",
     "featured": ["true"]
   },
   {
