@@ -99,6 +99,28 @@
     "featured": ["true"]
   },
   {
+    "title": "Powelines",
+    "date": "Jan 15, 2026",
+    "desc": "Watercolor painting sunset clouds behind two birds sitting on powerlines.",
+    "dimensions": "2.5x3.5 inches",
+    "media": ["watercolor"],
+    "content": ["landscape"],
+    "forSale": ["true"],
+    "link": "artCards/powelines.webp",
+    "featured": ["true"]
+  },
+  {
+    "title": "Lightning in the Clouds",
+    "date": "Jan 15, 2026",
+    "desc": "Watercolor painting of lightning a stormy sky over a treeline.",
+    "dimensions": "2.5x3.5 inches",
+    "media": ["watercolor"],
+    "content": ["landscape"],
+    "forSale": ["true"],
+    "link": "artCards/lightningClouds.webp",
+    "featured": ["true"]
+  },
+  {
     "title": "Distant Rains",
     "date": "Jan 15, 2026",
     "desc": "Watercolor painting of clouds over water and in the distance it is raining.",
@@ -968,7 +990,7 @@
     "featured": ["false"]
   },
   {
-    "title": "Dhole Party",
+    "title": "Play",
     "date": "Dec 1, 2023",
     "desc": "Micron pen and watercolor of three dholes playing near a stream with 3 pools of water with a dry grassy field behind them.",
     "dimensions": "6x9 inches",
